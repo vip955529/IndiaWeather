@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navToday"
+        android:icon="@drawable/today"
+        android:title="Today" />
+    <item
+        android:id="@+id/navHourly"
+        android:icon="@drawable/time"
+        android:title="Hourly" />
+    <item
+        android:id="@+id/navDaily"
+        android:icon="@drawable/daily_calendar"
+        android:title="Daily" />
+    <item
+        android:id="@+id/navRadar_and_Maps"
+        android:icon="@drawable/radar"
+        android:title="@string/title_radar_dashboard" />
+
+</menu>

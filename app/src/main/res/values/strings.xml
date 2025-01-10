@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndiaWeather</string>
+    <!--    <string name="radar_maps"><![CDATA[Radar & Maps]]></string>-->
+    <string name="title_radar_dashboard">Radar &amp; Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
